@@ -1,0 +1,8 @@
+admin,1234,Admin,A001
+anas_doc,1234,Doctor,anas
+nour111,1111,Doctor,D001
+nour568,56899,Doctor,d002
+ali11,1111,Patient,P001
+sara22,2222,Patient,P002
+omar33,3333,Patient,P003
+ijmolj,jnn651,Patient,p004
